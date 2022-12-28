@@ -1,5 +1,6 @@
 import { WebIO } from '@gltf-transform/core';
-import modelUrl from '../models/suzanne.glb?url';
+//import modelUrl from '../models/suzanne.glb?url';
+import modelUrl from '../models/box.gltf?url';
 
 export async function loadModel() {
 	const io = new WebIO({credentials: 'include'});

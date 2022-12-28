@@ -22,3 +22,9 @@ You must use a browser that supports WebGPU. See the [setup instructions in this
 ## Rust port
 
 There is a Rust port of this article here: https://github.com/pudnax/compaster. Created by [@pudnax](https://github.com/pudnax).
+
+chrome://flags/#enable-webgpu-developer-features
+WebGPU Developer Features
+Enabled
+
+--enable-features=Vulkan
